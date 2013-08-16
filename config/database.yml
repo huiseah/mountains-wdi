@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: mountains_db
   pool: 5
-  username: willybuttvangelderen
-  password:
-  host: localhost
+  username: hui
+  password: password
+
 
